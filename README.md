@@ -6,4 +6,5 @@ Project in three parts:
   1. Research into MIT-BIH and ECGView datasets (comprehensive cardiovascular datasets)
   2. Designing and testing industry standard PCB board housing sensors, processing, and communication units
   3. Processed datasets above and ran classification algorithms (Naive Bayes, SVM, Logistic Regression, CNN, RNN) in Python with Keras
-  
+
+This project was completed in collaboration with Lujain Ibrahim, Kai-Wen Yang, and Professor Mohamad Eid

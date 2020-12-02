@@ -1,4 +1,4 @@
-# Capstone2020
+# Capstone2020 - Predicting AMIs using Machine Learning
 
 Developing wearable armband for collecting ECG and Pulse Oximetry data and using machine learning to predict risk scores of Acute Myocardial Infarction
 
